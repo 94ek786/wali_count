@@ -26,4 +26,4 @@ i = input('是否列印y/n：')
 if i == 'y':
     df.to_csv('.\瓦力計算.csv',encoding='utf_8_sig', index = False)
     print('檔案存為 瓦力計算.csv')
-os.system('pause')
+os.system('pause')#1591951915
